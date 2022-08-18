@@ -53,56 +53,6 @@
             "price": "519.99",
             "rating": 4.4,
             "people": "2,930"
-        },
-        {
-            "id": 6,
-            "link": "https://www.udemy.com/course/selenium-webdriver-and-python/",
-            "title": "Python From Scratch & Selenium WebDriver QA Automation 2022",
-            "author": "Admas Kinfu",
-            "image": "https://img-c.udemycdn.com/course/480x270/482754_7146_6.jpg",
-            "price": "1,299.99",
-            "rating": 4.7,
-            "people": "1,813"
-        },
-        {
-            "id": 7,
-            "link": "https://www.udemy.com/course/teach-your-kids-to-code/",
-            "title": "Teach Your Kids to Code: Learn to Program Python at Any Age!",
-            "author": "Bryson Payne",
-            "image": "https://img-c.udemycdn.com/course/480x270/519554_da68_6.jpg",
-            "price": "319.99",
-            "rating": 4.5,
-            "people": "8,809"
-        },
-        {
-            "id": 8,
-            "link": "https://www.udemy.com/course/python-for-data-structures-algorithms-and-interviews/",
-            "title": "Python for Data Structures, Algorithms, and Interviews!",
-            "author": "Jose Portilla",
-            "image": "https://img-c.udemycdn.com/course/480x270/535622_3bc0.jpg",
-            "price": "1,299.99",
-            "rating": 4.5,
-            "people": "10.701"
-        },
-        {
-            "id": 9,
-            "link": "https://www.udemy.com/course/automate/",
-            "title": "Automate the Boring Stuff with Python Programming",
-            "author": "Al Sweigart",
-            "image": "https://img-c.udemycdn.com/course/480x270/543600_64d1_4.jpg",
-            "price": "519.99",
-            "rating": 4.7,
-            "people": "101,703"
-        },
-        {
-            "id": 10,
-            "link": "https://www.udemy.com/course/complete-python-bootcamp/",
-            "title": "2022 Complete Python Bootcamp From Zero to Hero in Python",
-            "author": "Jose Portilla",
-            "image": "https://img-c.udemycdn.com/course/480x270/567828_67d0.jpg",
-            "price": "729.99",
-            "rating": 4.6,
-            "people": "427,994"
         }
     ],
     "excel-header": {
@@ -159,16 +109,6 @@
             "price": "1,599.99",
             "rating": 4.4,
             "people": "17,999"
-        },
-        {
-            "id": 6,
-            "link": "https://www.udemy.com/course/python-for-beginners-learn-programming-from-scratch/",
-            "title": "Microsoft Excel 2013",
-            "author": "Edwin Diaz",
-            "image": "https://img-c.udemycdn.com/course/240x135/49250_a658_8.jpg",
-            "price": "680.99",
-            "rating": 4.2,
-            "people": "1,71"
         }
     ],
     "web-header": {
@@ -225,16 +165,6 @@
             "price": "519.99",
             "rating": 4.5,
             "people": "(,623"
-        },
-        {
-            "id": 6,
-            "link": "https://www.udemy.com/course/learning-python-for-data-analysis-and-visualization/",
-            "title": "HTML, CSS, JavaScript Web Developer",
-            "author": "Jose Portilla",
-            "image": "https://img-c.udemycdn.com/course/240x135/19332_6b49_15.jpg",
-            "price": "1,599.99",
-            "rating": 4.4,
-            "people": "17,999"
         }
     ],
     "javascript-header": {
@@ -291,16 +221,6 @@
             "price": "1,599.99",
             "rating": 4.4,
             "people": "17,999"
-        },
-        {
-            "id": 6,
-            "link": "https://www.udemy.com/course/microsoft-excel-2013-course-beginners-intermediate-training/",
-            "title": "Javascript for Beginners",
-            "author": "Infinite Skills",
-            "image": "https://img-c.udemycdn.com/course/240x135/8324_fa84_13.jpg",
-            "price": "519.99",
-            "rating": 4.5,
-            "people": "77,623"
         }
     ],
     "draw-header": {
@@ -355,16 +275,6 @@
             "price": "779.99",
             "rating": 4.5,
             "people": "4,623"
-        },
-        {
-            "id": 6,
-            "link": "https://www.udemy.com/course/learning-python-for-data-analysis-and-visualization/",
-            "title": "Drawing and Sketching for Beginners",
-            "author": "Jose Portilla",
-            "image": "https://img-c.udemycdn.com/course/240x135/382394_63fa_7.jpg 1x, https://img-c.udemycdn.com/course/480x270/382394_63fa_7.jpg 2x",
-            "price": "1,599.99",
-            "rating": 4.4,
-            "people": "17,999"
         }
     ],
     "aws-cert-header": {
@@ -421,16 +331,6 @@
             "price": "519.99",
             "rating": 4.5,
             "people": "44,623"
-        },
-        {
-            "id": 6,
-            "link": "https://www.udemy.com/course/learning-python-for-data-analysis-and-visualization/",
-            "title": "AWS Certified Security Specialty 2022",
-            "author": "Jose Portilla",
-            "image": "https://img-c.udemycdn.com/course/240x135/1102458_d6e6_2.jpg",
-            "price": "1,599.99",
-            "rating": 4.4,
-            "people": "17,999"
         }
     ],
     "data-science-header": {
@@ -487,16 +387,6 @@
             "price": "519.99",
             "rating": 4.5,
             "people": "4,623"
-        },
-        {
-            "id": 6,
-            "link": "https://www.udemy.com/course/learning-python-for-data-analysis-and-visualization/",
-            "title": "data science",
-            "author": "Jose Portilla",
-            "image": "https://img-c.udemycdn.com/course/240x135/671576_a272_4.jpg",
-            "price": "1,599.99",
-            "rating": 4.4,
-            "people": "17,999"
         }
     ]
 }
