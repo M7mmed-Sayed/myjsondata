@@ -53,6 +53,26 @@
             "price": "519.99",
             "rating": 4.4,
             "people": "2,930"
+        },
+        {
+            "id": 6,
+            "link": "https://www.udemy.com/course/selenium-webdriver-and-python/",
+            "title": "Python From Scratch & Selenium WebDriver QA Automation 2022",
+            "author": "Admas Kinfu",
+            "image": "https://img-c.udemycdn.com/course/480x270/482754_7146_6.jpg",
+            "price": "1,299.99",
+            "rating": 4.7,
+            "people": "1,813"
+        },
+        {
+            "id": 7,
+            "link": "https://www.udemy.com/course/teach-your-kids-to-code/",
+            "title": "Teach Your Kids to Code: Learn to Program Python at Any Age!",
+            "author": "Bryson Payne",
+            "image": "https://img-c.udemycdn.com/course/480x270/519554_da68_6.jpg",
+            "price": "319.99",
+            "rating": 4.5,
+            "people": "8,809"
         }
     ],
     "excel-header": {
@@ -109,6 +129,26 @@
             "price": "1,599.99",
             "rating": 4.4,
             "people": "17,999"
+        },
+        {
+            "id": 6,
+            "link": "https://www.udemy.com/course/selenium-webdriver-and-python/",
+            "title": "Python From Scratch & Selenium WebDriver QA Automation 2022",
+            "author": "Admas Kinfu",
+            "image": "https://img-c.udemycdn.com/course/480x270/482754_7146_6.jpg",
+            "price": "1,299.99",
+            "rating": 4.7,
+            "people": "1,813"
+        },
+        {
+            "id": 7,
+            "link": "https://www.udemy.com/course/teach-your-kids-to-code/",
+            "title": "Teach Your Kids to Code: Learn to Program Python at Any Age!",
+            "author": "Bryson Payne",
+            "image": "https://img-c.udemycdn.com/course/480x270/519554_da68_6.jpg",
+            "price": "319.99",
+            "rating": 4.5,
+            "people": "8,809"
         }
     ],
     "web-header": {
@@ -165,6 +205,26 @@
             "price": "519.99",
             "rating": 4.5,
             "people": "(,623"
+        },
+        {
+            "id": 6,
+            "link": "https://www.udemy.com/course/selenium-webdriver-and-python/",
+            "title": "Python From Scratch & Selenium WebDriver QA Automation 2022",
+            "author": "Admas Kinfu",
+            "image": "https://img-c.udemycdn.com/course/480x270/482754_7146_6.jpg",
+            "price": "1,299.99",
+            "rating": 4.7,
+            "people": "1,813"
+        },
+        {
+            "id": 7,
+            "link": "https://www.udemy.com/course/teach-your-kids-to-code/",
+            "title": "Teach Your Kids to Code: Learn to Program Python at Any Age!",
+            "author": "Bryson Payne",
+            "image": "https://img-c.udemycdn.com/course/480x270/519554_da68_6.jpg",
+            "price": "319.99",
+            "rating": 4.5,
+            "people": "8,809"
         }
     ]
 }
