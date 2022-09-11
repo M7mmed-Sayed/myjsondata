@@ -1,223 +1,154 @@
 {
-    "courses": [
+    "python-header": {
+        "tagline": "Expand your career opportunities with Python",
+        "description": "Take one of Udemy’s range of Python courses and learn how to code using this incredibly useful language. Its simple syntax and readability makes Python perfect for Flask, Django, data science, and machine learning. You’ll learn how to build everything from games to sites to apps. Choose from a range of courses that will appeal to"
+    },
+    "python-courses": [
         {
             "id": 1,
-            "data": {
-                "sections": [
-                    {
-                        "content_length_text": "05:44",
-                        "content_length": 344,
-                        "index": 1,
-                        "items": [
-                            {
-                                "content_summary": "04:07",
-                                "id": 2239858,
-                                "title": "Hello World"
-                            },
-                            {
-                                "content_summary": "01:37",
-                                "id": 2239862,
-                                "title": "Hello World"
-                            }
-                        ],
-                        "lecture_count": 2,
-                        "title": "Up and Running With Python"
-                    },
-                    {
-                        "content_length_text": "52:46",
-                        "content_length": 3166,
-                        "index": 2,
-                        "items": [
-                            {
-                                "content_summary": "03:01",
-                                "id": 2308924,
-                                "title": "Variables"
-                            }
-                        ],
-                        "lecture_count": 1,
-                        "title": "The Basics (Data Types)"
-                    },
-                    {
-                        "content_length_text": "56:41",
-                        "content_length": 3401,
-                        "index": 3,
-                        "items": [
-                            {
-                                "content_summary": "03:18",
-                                "id": 2245116,
-                                "title": "If-Else Statements"
-                            },
-                            {
-                                "content_summary": "05:57",
-                                "id": 3216318,
-                                "title": "Relational Operators"
-                            },
-                            {
-                                "content_summary": "04:23",
-                                "id": 3216322,
-                                "title": "Nested If/Else"
-                            },
-                            {
-                                "content_summary": "03:33",
-                                "id": 3216324,
-                                "title": "Elif Statements"
-                            },
-                            {
-                                "content_summary": "03:58",
-                                "id": 3216328,
-                                "title": "Logical Operators"
-                            }
-                        ],
-                        "lecture_count": 4,
-                        "title": "Conditions and Loops"
-                    }
-                ],
-                "estimated_content_length_text": "14:42:11",
-                "estimated_content_length_in_seconds": 52931,
-                "num_of_published_lectures": 146
-            },
-            "instractors": [
-                {
-                    "id": "1",
-                    "name": "Avinash Jain",
-                    "about": "CEO of TheCodex.me - Teaching 500,000+ Students how to code",
-                    "rating": "4.4",
-                    "review": "73,970",
-                    "student": "893,771",
-                    "courses": "16",
-                    "profile": "https://img-c.udemycdn.com/user/200_H/10260436_946b_6.jpg"
-                },
-                {
-                    "id": "2",
-                    "name": "codex",
-                    "about": "Teaching Python through Projects",
-                    "rating": "4.4",
-                    "review": "73,970",
-                    "student": "893,771",
-                    "courses": "16",
-                    "profile": "https://img-c.udemycdn.com/user/200_H/52310762_220a.jpg"
-                }
-            ],
-            "reviews": [
-                {
-                    "id": "1",
-                    "name": "Avinash Jain",
-                    "comment": "Sometimes confusing but was able to clarify. Good job nonetheless."
-                },
-                {
-                    "id": "2",
-                    "name": "Bli",
-                    "comment": "soo cool"
-                }
-            ],
-            
-            "title": "Learn A-Z everything about Python, from the basics",
-            "describe": "Learn A-Z everything about Python, from the basics, to advanced topics like Python GUI!",
-            "Imageurl": "https://img-c.udemycdn.com/course/240x135/394676_ce3d_5.jpg"
+            "link": "https://www.udemy.com/course/pythonforbeginners/",
+            "title": "Learn Python: The Complete Python Programming Course",
+            "author": "Avinash Jain,The Codex",
+            "image": "https://img-c.udemycdn.com/course/240x135/394676_ce3d_5.jpg",
+            "price": "679.99",
+            "rating": 4.4,
+            "people": "2,948"
         },
         {
             "id": 2,
-            "data": {
-                "sections": [
-                    {
-                        "content_length_text": "05:44",
-                        "content_length": 344,
-                        "index": 1,
-                        "items": [
-                            {
-                                "content_summary": "04:07",
-                                "id": 2239858,
-                                "icon_class": "udi udi-play-circle"
-                            },
-                            {
-                                "content_summary": "01:37",
-                                "id": 2239862,
-                                "title": "Hello World"
-                            }
-                        ],
-                        "lecture_count": 2,
-                        "title": "Up and Running With Python"
-                    },
-                    {
-                        "content_length_text": "52:46",
-                        "content_length": 3166,
-                        "index": 2,
-                        "items": [
-                            {
-                                "content_summary": "03:01",
-                                "id": 2308924,
-                                "title": "Variables",
-                            }
-                        ],
-                        "lecture_count": 1,
-                        "title": "The Basics (Data Types)"
-                    },
-                    {
-                        "content_length_text": "56:41",
-                        "content_length": 3401,
-                        "index": 3,
-                        "items": [
-                            {
-                                "content_summary": "03:18",
-                                "id": 2245116,
-                                "title": "If-Else Statements"
-                            },
-                            {
-                                "content_summary": "05:57",
-                                "id": 3216318,
-                                "title": "Relational Operators"
-                            },
-                            {
-                                "content_summary": "04:23",
-                                "id": 3216322,
-                                "title": "Nested If/Else"
-                            },
-                            {
-                                "content_summary": "03:33",
-                                "id": 3216324,
-                                "title": "Elif Statements"
-                            },
-                            {
-                                "content_summary": "03:58",
-                                "id": 3216328,
-                                "title": "Logical Operators"
-                            }
-                        ],
-                        "lecture_count": 4,
-                        "title": "Conditions and Loops"
-                    }
-                ],
-                "estimated_content_length_text": "14:42:11",
-                "estimated_content_length_in_seconds": 52931,
-                "num_of_published_lectures": 146
-            },
-            "instractors": [
-                {
-                    "id": "1",
-                    "name": "Avinash Jain",
-                    "about": "CEO of TheCodex.me - Teaching 500,000+ Students how to code",
-                    "rating": "4.4",
-                    "review": "73,970",
-                    "student": "893,771",
-                    "courses": "16",
-                    "profile": "https://img-c.udemycdn.com/user/200_H/10260436_946b_6.jpg"
-                }
-            ],
-            "reviews": [
-                {
-                    "id": "1",
-                    "name": "Mohamed Jain",
-                    "comment": "great course"
-                },
-                {
-                    "id": "2",
-                    "name": "CAskli",
-                    "comment": "soo cool keep up"
-                }
-            ],
+            "link": "https://www.udemy.com/course/learning-python-for-data-analysis-and-visualization/",
+            "title": "Learning Python for Data Analysis and Visualization",
+            "author": "Jose Portilla",
+            "image": "https://img-c.udemycdn.com/course/240x135/396876_cc92_7.jpg",
+            "price": "1,599.99",
+            "rating": 4.4,
+            "people": "17,999"
+        },
+        {
+            "id": 3,
+            "link": "https://www.udemy.com/course/python-for-beginners-learn-programming-from-scratch/",
+            "title": "Python for Beginners - Learn Programming from scratch",
+            "author": "Edwin Diaz, Coding FAcutly Solutaions",
+            "image": "https://img-c.udemycdn.com/course/240x135/405878_e5a0_3.jpg",
+            "price": "679.99",
+            "rating": 4.4,
+            "people": "1,781"
+        },
+        {
+            "id": 4,
+            "link": "https://www.udemy.com/course/learn-python/",
+            "title": "Learn Python: Python for Beginners",
+            "author": "Abrar Hussain",
+            "image": "https://img-c.udemycdn.com/course/240x135/426570_1b91_3.jpg",
+            "price": "319.99",
+            "rating": 4.3,
+            "people": "2,773"
+        },
+        {
+            "id": 5,
+            "link": "https://www.udemy.com/course/python-beyond-the-basics-object-oriented-programming/",
+            "title": "Python Beyond the Basics - Object-Oriented Programming",
+            "author": "Infinite Skills",
+            "image": "https://img-c.udemycdn.com/course/480x270/449532_2aa9_7.jpg",
+            "price": "519.99",
+            "rating": 4.4,
+            "people": "2,930"
+        },
+        {
+            "id": 6,
+            "link": "https://www.udemy.com/course/selenium-webdriver-and-python/",
             "title": "Python From Scratch & Selenium WebDriver QA Automation 2022",
-            "describe": "Learn python and how to use it to analyze,visualize and present data. Includes tons of sample code and hours of video!",
-            "Imageurl": "https://img-c.udemycdn.com/course/480x270/482754_7146_6.jpg"
+            "author": "Admas Kinfu",
+            "image": "https://img-c.udemycdn.com/course/480x270/482754_7146_6.jpg",
+            "price": "1,299.99",
+            "rating": 4.7,
+            "people": "1,813"
+        },
+        {
+            "id": 7,
+            "link": "https://www.udemy.com/course/teach-your-kids-to-code/",
+            "title": "Teach Your Kids to Code: Learn to Program Python at Any Age!",
+            "author": "Bryson Payne",
+            "image": "https://img-c.udemycdn.com/course/480x270/519554_da68_6.jpg",
+            "price": "319.99",
+            "rating": 4.5,
+            "people": "8,809"
+        }
+    ],
+    "excel-header": {
+        "tagline": "Analyze and visualize data with Excel",
+        "description": "Take a Microsoft Excel course from Udemy, and learn how to use this industry-standard software. Real-world experts will show you the basics like how to organize data into sheets, rows and columns, and advanced techniques like creating complex dynamic formulas. Both small businesses and large companies use Excel to"
+    },
+    "excel-courses": [
+        {
+            "id": 1,
+            "link": "https://www.udemy.com/course/microsoft-excel-2013-course-beginners-intermediate-training/",
+            "title": "Microsoft Excel 2013 Course Beginners/ Intermediate Training",
+            "author": "Infinite Skills",
+            "image": "https://img-c.udemycdn.com/course/240x135/31535_e351_7.jpg",
+            "price": "519.99",
+            "rating": 4.5,
+            "people": "(,623"
+        },
+        {
+            "id": 2,
+            "link": "https://www.udemy.com/course/learning-python-for-data-analysis-and-visualization/",
+            "title": "Microsoft Excel 2016",
+            "author": "Jose Portilla",
+            "image": "https://img-c.udemycdn.com/course/240x135/39292_b3f3_9.jpg",
+            "price": "1,599.99",
+            "rating": 4.4,
+            "people": "17,999"
+        },
+        {
+            "id": 3,
+            "link": "https://www.udemy.com/course/python-for-beginners-learn-programming-from-scratch/",
+            "title": "Microsoft Excel 2017",
+            "author": "Edwin Diaz, Coding FAcutly Solutaions",
+            "image": "https://img-c.udemycdn.com/course/240x135/49250_a658_8.jpg",
+            "price": "680.99",
+            "rating": 4.2,
+            "people": "1,71"
+        },
+        {
+            "id": 4,
+            "link": "https://www.udemy.com/course/microsoft-excel-2013-course-beginners-intermediate-training/",
+            "title": "Microsoft Excel 2018",
+            "author": "Infinite Skills",
+            "image": "https://img-c.udemycdn.com/course/240x135/31535_e351_7.jpg",
+            "price": "519.99",
+            "rating": 4.5,
+            "people": "(,623"
+        },
+        {
+            "id": 5,
+            "link": "https://www.udemy.com/course/learning-python-for-data-analysis-and-visualization/",
+            "title": "Microsoft Excel 2013",
+            "author": "Jose Portilla",
+            "image": "https://img-c.udemycdn.com/course/240x135/39292_b3f3_9.jpg",
+            "price": "1,599.99",
+            "rating": 4.4,
+            "people": "17,999"
+        },
+        {
+            "id": 6,
+            "link": "https://www.udemy.com/course/selenium-webdriver-and-python/",
+            "title": "Python From Scratch & Selenium WebDriver QA Automation 2022",
+            "author": "Admas Kinfu",
+            "image": "https://img-c.udemycdn.com/course/480x270/482754_7146_6.jpg",
+            "price": "1,299.99",
+            "rating": 4.7,
+            "people": "1,813"
+        },
+        {
+            "id": 7,
+            "link": "https://www.udemy.com/course/teach-your-kids-to-code/",
+            "title": "Teach Your Kids to Code: Learn to Program Python at Any Age!",
+            "author": "Bryson Payne",
+            "image": "https://img-c.udemycdn.com/course/480x270/519554_da68_6.jpg",
+            "price": "319.99",
+            "rating": 4.5,
+            "people": "8,809"
         }
     ]
 }
